@@ -1,7 +1,16 @@
 # myFirstGit project
+
 ## Project description:
+Introduction to git includes :
+1. Creating index.js file
+2. Adding code (print statement; function) to index.js file
+3. Creating README.md file
+4. Adding text using Markdown to README.md file
+   
 ## Install instructions:
+
 ## Run instrunctions:
+
 ## Table for weeks for the course and the course content:
 Week | Content
 ------------- | -------------
